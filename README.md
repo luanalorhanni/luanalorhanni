@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=808080,A9A9A9,C0C0C0,D3D3D3&center=true&vCenter=true&width=435&lines=Data+Analyst;Business+Intelligence+Specialist;Python+Developer;Building+My+Future+%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=808080&center=true&vCenter=true&width=435&lines=Data+Analyst;Business+Intelligence+Specialist;Python+Developer;Building+My+Future+%F0%9F%92%9C" alt="Typing SVG" />
 </p>
 
 ---
