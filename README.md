@@ -35,7 +35,7 @@
 
 ### Data Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009848?style=for-the-badge&logo=qlik&logoColor=white)
 
 ### Cloud & Big Data
@@ -57,63 +57,54 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanalorhanni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalorhanni&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luanalorhanni&theme=tokyonight" alt="luanalorhanni streak stats"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luanalorhanni&theme=tokyonight&no-frame=true&row=1&column=7" alt="luanalorhanni trophies"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luanalorhanni&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/luanalorhanni/script-sei">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luanalorhanni&repo=script-sei&theme=tokyonight" alt="script-sei"/>
-  </a>
-  <a href="https://github.com/luanalorhanni/dio-pythondev-lua">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luanalorhanni&repo=dio-pythondev-lua&theme=tokyonight" alt="dio-pythondev-lua"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/luanalorhanni/sklearn-projetos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luanalorhanni&repo=sklearn-projetos&theme=tokyonight" alt="sklearn-projetos"/>
-  </a>
-  <a href="https://github.com/luanalorhanni/wmc-data-analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luanalorhanni&repo=wmc-data-analytics&theme=tokyonight" alt="wmc-data-analytics"/>
-  </a>
-</p>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [script-sei](https://github.com/luanalorhanni/script-sei) | Task automation code for SEI system | Jupyter Notebook |
+| [dio-pythondev-lua](https://github.com/luanalorhanni/dio-pythondev-lua) | DIO Python Developer Bootcamp Projects | Python |
+| [sklearn-projetos](https://github.com/luanalorhanni/sklearn-projetos) | Study projects with SKLearn | Jupyter Notebook |
+| [wmc-data-analytics](https://github.com/luanalorhanni/wmc-data-analytics) | Data Analytics Bootcamp exercises & projects | Jupyter Notebook |
 
 ---
 
-## 🤝 Connect With Me
+## 💼 Experience
+
+🔹 **Data Analyst** @ POLEN - Solução e Valoração de Resíduos (Jul 2025 - Present)
+
+🔹 **Data Analyst** @ Prefeitura de São Luís (Jun 2024 - Jul 2025)
+
+🔹 **IT Systems Advisor** @ Governo do Maranhão - ITERMA (Nov 2023 - Apr 2024)
+
+---
+
+## 🎓 Education
+
+📚 **Bachelor's in Science & Technology** - UFMA (2022 - 2026)
+- Emphasis in Computer Engineering
+
+📚 **Technical Degree in Electroelectronics** - IFMA (2019 - 2021)
+
+---
+
+## 🤝 Community & Volunteer
+
+💜 **Data Girls** - Research & Development Team Member (Oct 2024 - Present)
+- Community dedicated to creating opportunities for women in tech & data
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luanalorhanni/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
