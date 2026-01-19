@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Data+Analyst;Business+Intelligence+Specialist;Python+Developer;Building+My+Future+%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=808080,A9A9A9,C0C0C0,D3D3D3&center=true&vCenter=true&width=435&lines=Data+Analyst;Business+Intelligence+Specialist;Python+Developer;Building+My+Future+%F0%9F%92%9C" alt="Typing SVG" />
 </p>
 
 ---
@@ -71,25 +71,6 @@
 | [dio-pythondev-lua](https://github.com/luanalorhanni/dio-pythondev-lua) | DIO Python Developer Bootcamp Projects | Python |
 | [sklearn-projetos](https://github.com/luanalorhanni/sklearn-projetos) | Study projects with SKLearn | Jupyter Notebook |
 | [wmc-data-analytics](https://github.com/luanalorhanni/wmc-data-analytics) | Data Analytics Bootcamp exercises & projects | Jupyter Notebook |
-
----
-
-## 💼 Experience
-
-🔹 **Data Analyst** @ POLEN - Solução e Valoração de Resíduos (Jul 2025 - Present)
-
-🔹 **Data Analyst** @ Prefeitura de São Luís (Jun 2024 - Jul 2025)
-
-🔹 **IT Systems Advisor** @ Governo do Maranhão - ITERMA (Nov 2023 - Apr 2024)
-
----
-
-## 🎓 Education
-
-📚 **Bachelor's in Science & Technology** - UFMA (2022 - 2026)
-- Emphasis in Computer Engineering
-
-📚 **Technical Degree in Electroelectronics** - IFMA (2019 - 2021)
 
 ---
 
