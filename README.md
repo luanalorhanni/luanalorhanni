@@ -39,6 +39,10 @@ data analyst transitioning into **data engineering**, passionate about turning b
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/luanalorhanni/luanalorhanni/output/github-snake-dark.svg" alt="snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanalorhanni/luanalorhanni/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luanalorhanni/luanalorhanni/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NicolasPauferro/luanalorhanni/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
