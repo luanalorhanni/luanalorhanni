@@ -3,8 +3,8 @@
 # hiii! i'm luana lorhanni! ⋆.˚ ☾ ⭒
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=440&color=FFFFFF&lines=building+my+journey+in+technology;data+analyst+%E2%86%92+data+engineering;sql+%7C+python+%7C+bigquery+%7C+gcp">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=440&color=000000&lines=building+my+journey+in+technology;data+analyst+%E2%86%92+data+engineering;sql+%7C+python+%7C+bigquery+%7C+gcp" alt="typing svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=440&color=FFFFFF&lines=building+my+journey+in+technology;data+analyst+%E2%86%92+data+engineering;sql+%7C+python+%7C+bigquery+%7C+gcp">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=440&color=000000&lines=building+my+journey+in+technology;data+analyst+%E2%86%92+data+engineering;sql+%7C+python+%7C+bigquery+%7C+gcp" alt="typing svg">
 </picture>
 
 <br>
@@ -17,13 +17,9 @@ data analyst transitioning into **data engineering**, passionate about turning b
 
 <div align="center">
 
-### favorite languages and tools
+### what i work with
 
-python • sql • bigquery • data engineering
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,postgres,gcp,docker,git,githubactions,ts,nextjs&theme=dark" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=python,r,postgres,gcp,aws,docker,linux,git,githubactions,ts,nextjs&theme=dark" alt="tech stack" />
 
 </div>
 
