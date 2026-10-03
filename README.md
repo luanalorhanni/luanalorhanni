@@ -29,7 +29,7 @@ data analyst transitioning into **data engineering**, passionate about turning b
 
 ### where to find me
 
-<a href="https://luana-lorhanni-portifolio.lovable.app/"><img src="https://img.shields.io/badge/portfolio-111111?style=for-the-badge&logo=safari&logoColor=white" alt="portfolio"></a>
+<a href="https://luanalorhanni.com.br/"><img src="https://img.shields.io/badge/portfolio-111111?style=for-the-badge&logo=safari&logoColor=white" alt="portfolio"></a>
 <a href="https://linkedin.com/in/luanalorhanni"><img src="https://img.shields.io/badge/linkedin-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="mailto:luanalorhannips@gmail.com"><img src="https://img.shields.io/badge/gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 
